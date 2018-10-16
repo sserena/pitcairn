@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.ellenwhite.pitcairn"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pitcairn</name>
+
+  <description>
+      Help launch the Pitcairn by learning about Ellen White.
+  </description>
+
+  <author href="https://ellenwhite.org" email="mail@whiteestate.org">
+      Ellen G. White Estate
+  </author>
+  
+  <platform name="ios" />
+  <platform name="android" />
+
+</widget>
