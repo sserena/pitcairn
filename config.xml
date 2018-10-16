@@ -22,4 +22,6 @@
   <preference name="FullScreen" value="true" />
   <preference name="orientation" value="landscape" />
   
+  <icon src="icon.png" />
+  
 </widget>
