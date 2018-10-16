@@ -19,4 +19,7 @@
   <platform name="ios" />
   <platform name="android" />
 
+  <preference name="FullScreen" value="true" />
+  <preference name="orientation" value="landscape" />
+  
 </widget>
