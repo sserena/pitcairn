@@ -1,0 +1,86 @@
+H.data.l10n.terms = {
+	basis: {
+		keyboard_del: 'Löschen',
+		keyboard_confirm: 'Bestätigen'
+	},
+	splash: {
+		instruction: 'Sammle genug Geld, um die Pitcairn zu Wasser zu lassen!'
+	},
+	start: {
+		high_scores: 'SPIELSTAND',
+		not_yet_available: 'NOCH NICHT VERFÜGBAR',
+		all_time: 'IMMER',
+		instructions: 'ANLEITUNG',
+		story: 'GESCHICHTE',
+		loading: 'LADEN'
+	},
+	main: {
+		loading: 'LADEN',
+		instructions_title: 'Spielanleitung',
+		instructions_text: 'Du brauchst 200 Punkte in 7 Minuten, um dein Pfadfinderabzeichen zu erhalten. Setze deine Münzen ein um zusätzlich Zeit, Bonusfragen oder Antwortkarten zu kaufen.',
+		instructions_button_continue: 'FORTFAHREN',
+		view_map: 'KARTE ANSEHEN',
+		zoom_in: 'REINZOOMEN',
+		redeem_tokens: 'MÜNZEN EINLÖSEN',
+		answer_cards: 'ANTWORTKARTE',
+		action: 'AKTION!',
+		action_not_enough_tokens: 'Du hast nicht genug Münzen für diese Aktion.',
+		cost: 'Preis',
+		tokens: 'Münzen',
+		action_bonus_time: 'Bonuszeit',
+		action_time_left_1: 'Verbleibende Zeit: ',
+		action_time_left_2: '',
+		seconds: 'Sekunden',
+		action_risk_question: 'Risikofrage',
+		action_answer_card: 'Antwortkarte',
+		action_continue: 'FORTFAHREN',
+		pause_start: 'Spiel angehalten',
+		pause_stop: 'Spiel fortgesetzt',
+		actions: {
+			dime_tabernacle: 'Kinder und Erwachsene sammeln selbstlos Münzen (engl. "Dimes"), um die Kirche in Battle Creek zu bauen, die deshalb auch "Dime Tabernacle" genannt wird. Du bekommst 5 Münzen.',
+			pitcairn: 'Kinder und Erwachsene sammeln selbstlos Geld, um die Pitcairn zu bauen. Du bekommst 10 Münzen.',
+			meat: 'Ellen White kämpft mit ihrer Liebe zu Fleisch und Süssigkeiten, schafft es aber mit Gottes Hilfe, diese Lebensmittel aus ihrem Essensplan zu streichen. Eine gesunde Diät bringt dir 30 Sekunden ein.',
+			health: 'Ellen White hat im Jahr 1863 eine Vision darüber, wie man gesünder lebt. Ein gesünderer Lebensstil bringt dir 20 Sekunden zusätzliche Zeit ein.',
+			death_james: 'James White stirbt im Alter von 60 Jahren. Du verlierst 15 Sekunden an seinem Begräbnis.',
+			death_henry: 'Henry White, der älteste Sohn der Whites stirbt im Alter von 16 Jahren. Du verlierst 10 Sekunden, während du ihn pflegst.',
+			railroad: 'Die Fertigstellung der Transkontinentalen Eisenbahn im Jahr 1869 machte das Reisen einfacher. Du erhälst 20 Sekunden.',
+			civil_war: 'Der Bürgerkrieg den Ellen White in einer Vision sah, beginnt 1861. Er bringt eine furchtbare Verwüstung. Du verlierst 10 Punkte.',
+			willie_drowns: 'Der kleine Willie White stirbt fast, als er in ein Fass mit dreckigem Waschwasser fällt. Du verlierst 10 Sekunden, während du ihn rettest.',
+			mission_ship: 'Junge Leute helfen, das Geld für den Bau der Pitcairn zusammen zu bekommen. Du erhälst 6 Punkte.',
+			train_wreck: 'Auf einer Fahrt nach Wisconsin sind die Whites in ein Zugunglück verwickelt, aber sie werden nicht verletzt. Du verlierst 6 Punkte, um für die zusätzlichen Ausgaben aufzukommen.',
+			headquarters: 'Die Generalkonferenz zieht 1903 von Battle Creek nach Washington D.C. um. Die bessere Arbeitsatmosphäre spart dir Zeit. Du erhälst 15 Sekunden.',
+			review_and_herald: 'Das Gebäude des "Review and Herald" brennt nieder. 5 deiner Münzen gehen im Feuer verloren.',
+			steps_to_christ: 'Ellen Whites meist übersetztes Buch, "Schritte zu Jesus", erscheint im Jahr 1892. Du verdienst 5 Münzen durch die Veröffentlichung.',
+			large_audience: 'Im Jahr 1876 spricht Ellen White zum größten Publikum ihres Lebens (ungefähr 20 000 Menschen) auf einer Zeltversammlung in Massachusetts. Du bekommst 5 Münzen für deine Teilnahme.',
+			woodstreet: 'Die Whites ziehen 1856 in die Waldstraße in Battle Creek. Du bekommst 5 Münzen für die Hilfe beim Umzug.',
+			ohio: 'Im Jahr 1858 hat Ellen White auf ihrem Heimweg von Ohio einen Schlaganfall. Du verlierst 5 Münzen.',
+			pray: 'Als schüchternes, junges Mädchen ist Ellen Harmon zu ängstlich, um in der Öffentlichkeit zu beten. Du verlierst 5 Münzen.',
+			expelled: 'Familie Harmon wurde von der Chestnut Street Gemeinde ausgeschlossen, auf Grund ihres Glaubens an das baldige Kommen Jesu`. Du verlierst 5 Münzen.',
+			disappointment: 'Die Milleritischen Adventisten waren enttäuscht, als Jesus am 22. Oktober 1844 nicht kam. Du verlierst 5 Münzen.'
+		}
+	},
+	end: {
+		play_again: 'WIEDERHOLEN',
+		pathfinder_honor: 'ABZEICHEN',
+		game_over: 'Spiel beendet',
+		out_of_time: 'Zeit abgelaufen. Tipp: Löse Münzen ein, um mehr Zeit zu kaufen.',
+		congratulations: 'Gratulation',
+		pitcairn_ready: 'Die Pitcairn kann vom Stapel laufen.',
+		sorry: 'Sorry',
+		hint_redeem_tokens: 'Hinweis: Löse Münzen ein für mehr Punkte.',
+		needed: 'notwendig',
+		points: 'Punkte',
+		send: 'SENDEN',
+		back: 'ZURÜCK',
+		honor_earned: 'Du hast dein Abzeichen verdient!',
+		get_honor_heading: 'Erhalte dein Abzeichen',
+		get_honor_instructions: 'Wenn du noch kein Abzeichen erhalten hast, kannst du deine Bewertung deinem Pfadfinderleiter zusenden.',
+		mobile_get_honor_instructions: 'Dein Punktestand wurde gespeichert und wird auf dem Bildschirm deines Computers sichtbar, wenn du das Spiel startest. Du kannst es deinem Pfadfinderleiter zeigen, um dein Abzeichen zu erhalten.',
+		your_name: ' Dein Name',
+		email_of_director: 'E-Mail deines Pfadfinderleiters',
+		email_sent_confirmation: 'Gratulation! Wir verständigen deinen Pfadfinderleiter.',
+		email_problem: 'Ein Problem ist aufgetreten. Der Startbildschirm des Spiels zeigt deine Bewertung; du kannst diesen als Nachweis vorzeigen!',
+		email_close: 'SCHLIEßEN'
+	}
+};
+

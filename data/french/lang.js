@@ -1,0 +1,86 @@
+H.data.l10n.terms = {
+	basis: {
+		keyboard_del: 'Suppr',
+		keyboard_confirm: 'Confirmer'
+	},
+	splash: {
+		instruction: 'Rassembler assez d\'argent pour faire lever l\'ancre du Pitcairn!'
+	},
+	start: {
+		high_scores: 'MEILLEURS POINTS',
+		not_yet_available: 'PAS ENCORE DISPONIBLE',
+		all_time: 'TOUS LES TEMPS',
+		instructions: 'INSTRUCTIONS',
+		story: 'L\'HISTOIRE',
+		loading: 'CHARGEMENT...'
+	},
+	main: {
+		loading: 'CHARGEMENT...',
+		instructions_title: 'Instructions',
+		instructions_text: 'Vous avez besoin de 200 points en 7 minutes pour avoir votre (distinction). Rachetez vos jetons pour avoir plus de temps, des questions bonus ou des cartes de réponses.',
+		instructions_button_continue: 'CONTINUER',
+		view_map: 'VOIR LA CARTE',
+		zoom_in: 'ZOOM',
+		redeem_tokens: 'RACHETER DES JETONS',
+		answer_cards: 'CARTES DE REPONSES',
+		action: 'ACTION!',
+		action_not_enough_tokens: 'Vous n\'avez pas assez de jetons pour cette action.',
+		cost: 'Coût',
+		tokens: 'Jetons',
+		action_bonus_time: 'Temps bonus',
+		action_time_left_1: 'Vous avez maintenant',
+		action_time_left_2: 'minutes restantes pour finir cette course.',
+		seconds: 'secondes',
+		action_risk_question: 'Question à risque',
+		action_answer_card: 'Carte de réponse',
+		action_continue: 'CONTINUER',
+		pause_start: 'Game paused',
+		pause_stop: 'Game continued',
+		actions: {
+			dime_tabernacle: 'Enfants et adultes ont généreusement économisé des dîmes pour construire l\'église à Battle Creek appelée le Dime Tabernacle. Vous obtenez 5 jetons.',
+			pitcairn: 'Enfants et adultes ont généreusement économisé de l\'argent pour construire Pitcairn. Vous obtenez 10 points.',
+			meat: 'Ellen White a lutté pour renoncer à la viande et a réussi. Un régime sain ajoute 30 secondes à votre vie.',
+			health: 'Ellen White a eu une vision sur comment vivre plus sainement en 1863. Un meilleur style de vie vous donne 20 secondes.',
+			death_james: 'James White est décédé à l\'âge de 60 ans. Vous perdez 15 secondes à ses funérailles.',
+			death_henry: 'Henry White, le fis aîné des White est décédé à l\'âge de 16 ans. Vous perdez 10 secondes en prenant soin de lui.',
+			railroad: 'Le Chemin de fer Transcontinental a été achevé en 1869, rendant plus facile le voyage. Vous obtenez 20 secondes.',
+			civil_war: 'La Guerre Civile qu\'Ellen White a vu dans une vision, a commencé en 1861. La guerre a engendré de terribles destructions. Vous perdez 10 points.',
+			willie_drowns: 'Le petit Willie White s\'est presque noyé dans une cuve d\'eau de lavage sale. Vous perdez 10 secondes en aidant à le sauver.',
+			mission_ship: 'Les jeunes ont économisé pour aider à payer le bateau de mission, le "Pitcairn". Vous obtenez 6 points.',
+			train_wreck: 'Lors d\'un voyage vers Wisconsin, les White ont eu un accident de train mais ils ne sont pas blessés. Vous perdez 6 points pour couvrir les dépenses supplémentaires.',
+			headquarters: 'Le siege de la Conférence Générale a déménagé de Battle Creek à Washington DC en 1903. Le meilleur local vous fait gagner du temps. Vous obtenez 15 secondes.',
+			review_and_herald: 'Le bâtiment de la Maison d\'Edition Review and Herald a été réduit en cendres. 5 de vos jetons ont été perdus dans l\'incendie.',
+			steps_to_christ: 'Le livre le plus traduit d\'Ellen White\'Vers Jésus\' a été publié en 1892. Vous obtenez 5 jetons de la part des éditeurs.',
+			large_audience: 'En 1876, Ellen White a parlé devant la plus large audience de sa vie (environ 20.000) au camp meeting de Massachusetts. Vous obtenez 5 jetons en y assistant.',
+			woodstreet: 'Les White ont déménagé en 1856 à Woodstreet, Battle Creek, MI. vous obtenez 5 jetons en aidant dans le déménagement.',
+			ohio: 'En 1858, en rentrant de Ohio, Ellen White a eu une attaque. Vous perdez 5 jetons.',
+			pray: 'Etant une jeune fille timide, Ellen Harmon a trop peur de prier en public. Vous perdez 5 jetons.',
+			expelled: 'La famille Harmon a été renvoyée de l\'église de Chesnut Street à cause de leur croyance que Jésus va revenir bientôt. Vous perdez 5 jetons.',
+			disappointment: 'Les Adventistes Millérites ont été désappointés quand Jésus n\'est pas venu le 22 Octobre 1844. Vous perdez 5 jetons.'
+		}
+	},
+	end: {
+		play_again: 'REJOUER',
+		pathfinder_honor: '(DISTINCTION)',
+		game_over: '(Fin du jeu)',
+		out_of_time: 'Temps écoulé. Astuce: Rachetez des jetons pour plus de temps.',
+		congratulations: 'Félicitations',
+		pitcairn_ready: 'Le Pitcairn est prêt à lever l\'ancre.',
+		sorry: 'Désolé',
+		hint_redeem_tokens: 'Astuce: Rachetez des jetons pour plus de points.',
+		needed: 'utile',
+		points: 'points',
+		send: 'ENVOYER',
+		back: 'RETOUR',
+		honor_earned: 'Vous avez gagné votre (distinction).',
+		get_honor_heading: 'Obtenez votre (distinction)',
+		get_honor_instructions: 'Si vous n\'avez pas encore reçu votre (distinction), vous pouvez envoyer vos scores à votre directeur des explorateurs.',
+		mobile_get_honor_instructions: 'Vos scores ont été enregistrés et seront affichés sur l\'écran d\'accueil chaque fois que vous démarrez le jeu. Vous pouvez le montrer à votre directeur des explorateurs pour recevoir votre (distinction).',
+		your_name: 'Votre nom',
+		email_of_director: 'E-Mail du directeur des explorateurs',
+		email_sent_confirmation: 'Félicitations! Nous avons notifié votre directeur des explorateurs.',
+		email_problem: 'Un problème est survenu. L\'écran de démarrage de ce jeu vous montre vos scores; vous pouvez l\'utiliser comme preuve!',
+		email_close: 'FERMER'
+	}
+};
+

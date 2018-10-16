@@ -1,0 +1,86 @@
+H.data.l10n.terms = {
+	basis: {
+		keyboard_del: 'Del',
+		keyboard_confirm: 'Confirmar'
+	},
+	splash: {
+		instruction: 'Junte dinheiro suficiente para lançar o Pitcairn!'
+	},
+	start: {
+		high_scores: 'RECORDES',
+		not_yet_available: 'AINDA NÃO DISPONÍVEL',
+		all_time: 'TEMPO',
+		instructions: 'INSTRUÇÕES',
+		story: 'HISTÓRIA',
+		loading: 'CARREGANDO...'
+	},
+	main: {
+		loading: 'CARREGANDO...',
+		instructions_title: 'Instruções',
+		instructions_text: 'Você precisa de 200 pontos para conseguir sua Especialidade. Resgate suas moedas para conseguir mais tempo, questões bônus ou cartões-respostas.',
+		instructions_button_continue: 'CONTINUAR',
+		view_map: 'VER O MAPA',
+		zoom_in: 'APROXIMAR',
+		redeem_tokens: 'RESGATE MOEDAS',
+		answer_cards: 'CARTÕES-RESPOSTA',
+		action: 'AÇÃO!',
+		action_not_enough_tokens: 'Você não tem moedas suficientes para esta ação.',
+		cost: 'Preço',
+		tokens: 'moedas',
+		action_bonus_time: 'Tempo Bônus',
+		action_time_left_1: 'Você agora tem',
+		action_time_left_2: 'minutos restantes para completar esta corrida.',
+		seconds: 'segundos',
+		action_risk_question: 'Questão de Risco',
+		action_answer_card: 'Cartão-Resposta',
+		action_continue: 'CONTINUAR',
+		pause_start: 'Jogo pausado',
+		pause_stop: 'Jogo recomeçado',
+		actions: {
+			dime_tabernacle: 'Crianças e adultos bondosamente guardam moedas de 10 centavos para construir a igreja em Battle Creek conhecida como Tabernáculo Dime . Você ganha 5 moedas',
+			pitcairn: 'Crianças e adultos bondosamente guardam dinheiro para construir o Pitcairn. Você ganha 10 pontos.',
+			meat: 'Ellen White luta para deixar de comer carne e tem sucesso. Uma dieta saudável acrescenta 30 segundos para sua vida.',
+			health: 'Ellen White teve uma visão de como viver uma vida mais saudável em 1863. Um estilo de vida melhor lhe dá 20 segundos.',
+			death_james: 'Tiago White morre com a idade de 60 anos. Você perde 15 segundos em seu funeral.',
+			death_henry: 'Henry White, o filho mais velho dos Whites, morre aos 16 anos. Você perde 10 segundos cuidando dele.',
+			railroad: 'A Ferrovia Transcontinental é concluída em 1869 e torna a viagem mais fácil. Você ganha 20 segundos. ',
+			civil_war: 'A Guerra Civil na qual Ellen White viu em visão, começou em 1861. A Guerra trouxe terrível destruição. Você perde 10 pontos.',
+			willie_drowns: 'O Pequeno Willie White quase se afoga em uma banheira de água suja. Você perde 10 segundos tentando salvá-lo.',
+			mission_ship: 'Jovens economizam para ajudar a pagar a missão com o navio, O Pitcairn. Você ganha 6 pontos.',
+			train_wreck: 'Em uma viagem para Wisconsin, a família White está em uma colisão de trem, mas não estão machucados. Você perde 6 pontos para cobrir as despesas adicionais. ',
+			headquarters: 'A Sede da Conferência Geral muda-se de Battle Creek para Washington D.C em 1903. A melhor localização poupa o seu tempo. Você consegui 15 segundos.',
+			review_and_herald: 'O Prédio da Editora Review and Herald é incendiado. Cinco das suas moedas são perdidas no fogo. ',
+			steps_to_christ: 'O Livro mais traduzido de Ellen White “Caminho a Cristo”  foi publicado em 1892. Você ganha 5 moedas dos editores.',
+			large_audience: 'Em 1876, Ellen White fala para o maior público em sua vida, (mais ou menos 20.000) em uma campal em Massachusetts. Você ganhará 5 moedas por participar',
+			woodstreet: 'A Família White mudou-se em 1856 para Woodstreet, Battle Creek, MI. Você ganha 5 moedas por ajudá-los na mudança..',
+			ohio: 'Em 1858, em seu caminho para casa, Ellen White tem um ataque de paralisia. Você perde 5 moedas.',
+			pray: 'Como uma tímida menina jovem, Ellen Harmom tem muito medo de orar em público. Você perde 5 moedas.',
+			expelled: 'A Família Harmon foi expulsa da Igreja na Chestnut Street por causa de sua crença que Jesus voltaria em breve. Você perde 5 moedas.',
+			disappointment: 'Os adventistas Mileritas ficaram desapontados quando Jesus não voltou em 22 de outubro de 1844.Você perde 5 moedas.'
+		}
+	},
+	end: {
+		play_again: 'JOGAR NOVAMENTE',
+		pathfinder_honor: 'ESPECIALIDADE',
+		game_over: 'Fim de Jogo',
+		out_of_time: 'Acabou o tempo. Dica: Resgate moedas para ganhar mais.',
+		congratulations: 'Parabéns',
+		pitcairn_ready: 'O Pitcairn está pronto para ser lanchado.',
+		sorry: 'Desculpe',
+		hint_redeem_tokens: 'Dica: Resgate moedas para obter mais pontos.',
+		needed: 'necessitado',
+		points: 'pontos',
+		send: 'ENVIAR',
+		back: 'VOLTAR',
+		honor_earned: 'Você ganhou sua especialidade',
+		get_honor_heading: 'Ganhe sua especialidade',
+		get_honor_instructions: 'Se você ainda não recebeu sua especialidade, você pode enviar seus pontos ao seu diretor de desbravadores.',
+		mobile_get_honor_instructions: 'Sua pontuação foi salva e será exibida na tela inicial sempre que você iniciar o jogo. Você pode mostrá-la para o seu diretor de desbravadores para receber a sua especialidade.',
+		your_name: 'Seu Nome',
+		email_of_director: 'E-mail do Diretor de Desbravadores',
+		email_sent_confirmation: 'Parabéns! Nós notificamos seu diretor de desbravadores.',
+		email_problem: 'Ocorreu um problema. A tela inicial do jogo mostra a sua pontuação; você pode usá-la como prova!',
+		email_close: 'FECHAR'
+	}
+};
+
