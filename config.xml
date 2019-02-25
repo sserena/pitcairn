@@ -21,6 +21,7 @@
 
   <preference name="FullScreen" value="true" />
   <preference name="orientation" value="landscape" />
+  <preference name="android-minSdkVersion" value="26" />
   
   <icon src="icon.png" />
   
