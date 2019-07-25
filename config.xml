@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     id          = "org.ellenwhite.pitcairn"
     version     = "1.0.0" >
 
@@ -24,33 +25,33 @@
   <preference name="android-minSdkVersion" value="26" />
   
   <config-file platform="android" parent="/manifest" mode="add">
-    <uses-feature name="android.hardware.touchscreen" required="false" />
-	<uses-feature name="android.hardware.camera" required="false" />
-	<uses-feature name="android.hardware.camera.autofocus" required="false" />
-	<uses-feature name="android.hardware.camera.capability.manual_post_processing" required="false" />
-	<uses-feature name="android.hardware.camera.capability.manual_sensor" required="false" />
-	<uses-feature name="android.hardware.camera.capability.raw" required="false" />
-	<uses-feature name="android.hardware.camera.flash" required="false" />
-	<uses-feature name="android.hardware.camera.level.full" required="false" />
-	<uses-feature name="android.hardware.consumerir" required="false" />
-	<uses-feature name="android.hardware.location.gps" required="false" />
-    <uses-feature name="android.hardware.nfc" required="false" />
-    <uses-feature name="android.hardware.nfc.hce" required="false" />
-    <uses-feature name="android.hardware.sensor.barometer" required="false" />
-    <uses-feature name="android.hardware.telephony" required="false" />
-    <uses-feature name="android.hardware.telephony.cdma" required="false" />
-    <uses-feature name="android.hardware.telephony.gsm" required="false" />
-	<uses-feature name="android.hardware.type.automotive" required="false" />
-	<uses-feature name="android.hardware.type.television" required="false" />
-	<uses-feature name="android.hardware.usb.accessory" required="false" />
-	<uses-feature name="android.hardware.usb.host" required="false" />
-	<uses-feature name="android.hardware.sensor.accelerometer" required="false" />
-	<uses-feature name="android.hardware.sensor.compass" required="false" />
-	<uses-feature name="android.hardware.sensor.gyroscope" required="false" />
-	<uses-feature name="android.hardware.sensor.light" required="false" />
-	<uses-feature name="android.hardware.sensor.proximity" required="false" />
-	<uses-feature name="android.hardware.sensor.stepcounter" required="false" />
-	<uses-feature name="android.hardware.sensor.stepdetector" required="false" />
+    <uses-feature android:android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.capability.manual_post_processing" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.capability.manual_sensor" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.capability.raw" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.flash" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.level.full" android:required="false" />
+    <uses-feature android:name="android.hardware.consumerir" android:required="false" />
+    <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+    <uses-feature android:name="android.hardware.nfc" android:required="false" />
+    <uses-feature android:name="android.hardware.nfc.hce" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.barometer" android:required="false" />
+    <uses-feature android:name="android.hardware.telephony" android:required="false" />
+    <uses-feature android:name="android.hardware.telephony.cdma" android:required="false" />
+    <uses-feature android:name="android.hardware.telephony.gsm" android:required="false" />
+    <uses-feature android:name="android.hardware.type.automotive" android:required="false" />
+    <uses-feature android:name="android.hardware.type.television" android:required="false" />
+    <uses-feature android:name="android.hardware.usb.accessory" android:required="false" />
+    <uses-feature android:name="android.hardware.usb.host" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.compass" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.gyroscope" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.light" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.proximity" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.stepcounter" android:required="false" />
+    <uses-feature android:name="android.hardware.sensor.stepdetector" android:required="false" />
   </config-file>
   
   <icon src="icon.png" />
